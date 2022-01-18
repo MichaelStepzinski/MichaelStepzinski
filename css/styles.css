@@ -3447,7 +3447,7 @@ input[type="button"].btn--primary:focus {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background-image: url(../images/header-bg-3000.jpg);
+    background-image: url(../images/las_vegas.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3464,7 +3464,7 @@ input[type="button"].btn--primary:focus {
     width: 100%;
     height: 100%;
     background: black;
-    opacity: .5;
+    opacity: .7;
 }
 
 .s-hero__bg::after {
@@ -3478,7 +3478,7 @@ input[type="button"].btn--primary:focus {
     width: 100%;
     height: 100%;
     background: linear-gradient(360deg, black 15%, rgba(0, 0, 0, 0) 100%);
-    opacity: .4;
+    opacity: .7;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3790,7 +3790,7 @@ input[type="button"].btn--primary:focus {
 .s-about__pic {
     width: var(--vspace-5);
     height: var(--vspace-5);
-    border: 1.6rem solid rgba(255, 255, 255, 0.02);
+    border: 1rem solid rgba(255, 255, 255, 0.02);
     border-radius: 50%;
 }
 
